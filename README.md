@@ -31,10 +31,10 @@ sudo apt-get install sublime-text-installer
 
 #### Instalar [php5-fpm](http://www.php.net/)
 
-> Será instalado as duas extensões mysql e mcrypt
+> Será instalado as duas extensões mysql, mcrypt, xdebug e intl
 
 ```sh
-sudo apt-get install php5-cli php5-fpm php5-mysql php5-mcrypt php5-xdebug
+sudo apt-get install php5-cli php5-fpm php5-mysql php5-mcrypt php5-xdebug php5-intl
 ```
 
 > Configura php para rodar legal com nginx
